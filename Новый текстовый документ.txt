@@ -1,0 +1,29 @@
+uptime
+echo "It works!"
+
+for run in {1..10}
+do
+        echo "It works!"
+
+        date +"%H:%M:%S"
+        sleep 0.5
+done
+125
+0
+NAME="Amazon Linux"
+VERSION="2"
+ID="amzn"
+ID_LIKE="centos rhel fedora"
+VERSION_ID="2"
+PRETTY_NAME="Amazon Linux 2"
+ANSI_COLOR="0;33"
+CPE_NAME="cpe:2.3:o:amazon:amazon_linux:2
+https://aws.amazon.com/amazon-linux-2/
+[ec2-user@ip-172-31-33-20 ~]$ cd /opt/47_48_evening_b/Anna
+[ec2-user@ip-172-31-33-20 Anna]$ cd sleeper.sh
+-bash: cd: sleeper.sh: Not a directory
+[ec2-user@ip-172-31-33-20 Anna]$ ls
+dir_100  dir_52  dir_55  dir_58  dir_61  dir_64  dir_67  dir_70  dir_73  dir_76  dir_79  dir_82  dir_85  dir_88  dir_91  dir_94  dir_97  faie_      script.sh
+dir_50   dir_53  dir_56  dir_59  dir_62  dir_65  dir_68  dir_71  dir_74  dir_77  dir_80  dir_83  dir_86  dir_89  dir_92  dir_95  dir_98  faile.txt  sleeper.sh
+dir_51   dir_54  dir_57  dir_60  dir_63  dir_66  dir_69  dir_72  dir_75  dir_78  dir_81  dir_84  dir_87  dir_90  dir_93  dir_96  dir_99  script
+[ec2-user@ip-172-31-33-20 Anna]$
